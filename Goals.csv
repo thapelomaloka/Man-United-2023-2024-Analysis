@@ -1,59 +1,58 @@
-ÔªøRk;Date;Round;Venue;Scorer;Opponent;Start;xG;PSxG;Body Part;Distance;Minute;Score;Goalkeeper;Assist;GCA1;Type;GCA2;Type;Notes
-;;;;;;;;;;;‚ñº;;;;;;;;
-1;2024/02/01;Matchweek 22;Away;Kobbie Mainoo;Wolves;Y;0.08;0.45;Right Foot;18;90+7;03-Mar;Jos√© S√°;Omari Forson;Kobbie Mainoo;Take-On;Kobbie Mainoo;Take-On;
-2;2023/10/07;Matchweek 8;Home;Scott McTominay;Brentford;N;0.28;0.53;Head;7;90+7;01-Jan;Thomas Strakosha;Harry Maguire;Harry Maguire;Pass (Live);Bruno Fernandes;Pass (Dead);
-3;2024/03/30;Matchweek 30;Away;Mason Mount;Brentford;N;0.11;0.87;Left Foot;11;90+6;0-0;Mark Flekken;Casemiro;Casemiro;Pass (Live);Casemiro;Pass (Live);
-4;2023/10/07;Matchweek 8;Home;Scott McTominay;Brentford;N;0.10;0.38;Right Foot;12;90+3;0-1;Thomas Strakosha;;Diogo Dalot;Shot;;;
-5;2023/11/04;Matchweek 11;Away;Bruno Fernandes;Fulham;Y*;0.09;0.42;Right Foot;18;90+1;0-0;Bernd Leno;Facundo Pellistri;Bruno Fernandes;Take-On;Bruno Fernandes;Take-On;
-6;2024/02/24;Matchweek 26;Home;Harry Maguire;Fulham;Y;0.71;0.92;Left Foot;4;89;0-1;Bernd Leno;;Bruno Fernandes;Shot;;;Volley
-7;2024/05/19;Matchweek 38;Away;Rasmus H√∏jlund;Brighton;N;0.15;0.12;Right Foot;12;88;1-0;Jason Steele;Christian Eriksen;Rasmus H√∏jlund;Take-On;Christian Eriksen;Pass (Live);
-8;2024/02/11;Matchweek 24;Away;Scott McTominay;Aston Villa;N;0.13;0.36;Head;9;86;01-Jan;Emiliano Mart√≠nez;Diogo Dalot;Diogo Dalot;Pass (Live);Rapha√´l Varane;Pass (Live);
-9;2024/04/24;Matchweek 29;Home;Rasmus H√∏jlund;Sheffield Utd;Y;0.52;0.78;Left Foot;6;85;02-Mar;Wes Foderingham;Bruno Fernandes;Bruno Fernandes;Pass (Live);Diogo Dalot;Pass (Live);
-10;2024/05/15;Matchweek 34;Home;Rasmus H√∏jlund;Newcastle Utd;N;0.05;0.29;Right Foot;15;84;01-Feb;Martin D√∫bravka;Bruno Fernandes;Bruno Fernandes;Pass (Live);Marcus Rashford;Pass (Live);
-11;2024/02/04;Matchweek 23;Home;Alejandro Garnacho;West Ham;Y;0.19;0.53;Right Foot;13;84;2-0;≈Åukasz Fabia≈Ñski;Scott McTominay;Scott McTominay;Pass (Live);Scott McTominay;Tackle;
-12;2023/12/26;Matchweek 19;Home;Rasmus H√∏jlund;Aston Villa;Y;0.10;0.54;Left Foot;11;82;02-Feb;Emiliano Mart√≠nez;;Antony;Tackle;;;Volley
-13;2024/04/24;Matchweek 29;Home;Bruno Fernandes;Sheffield Utd;Y*;0.03;0.23;Left Foot;30;81;02-Feb;Wes Foderingham;Kobbie Mainoo;Kobbie Mainoo;Pass (Live);Aaron Wan-Bissaka;Pass (Live);Deflected
-14;2024/04/27;Matchweek 35;Home;Antony;Burnley;Y;0.32;0.79;Left Foot;16;79;0-0;Arijanet Muric;;Antony;Interception;;;
-15;2023/12/30;Matchweek 20;Away;Marcus Rashford;Nott'ham Forest;Y;0.11;0.26;Right Foot;16;78;0-1;Matt Turner;Alejandro Garnacho;Alejandro Garnacho;Pass (Live);Alejandro Garnacho;Interception;
-16;2023/10/21;Matchweek 9;Away;Diogo Dalot;Sheffield Utd;Y;0.03;0.48;Right Foot;29;77;01-Jan;Wes Foderingham;Victor Lindel√∂f;Victor Lindel√∂f;Pass (Live);Alejandro Garnacho;Pass (Live);
-17;2023/08/14;Matchweek 1;Home;Rapha√´l Varane;Wolves;Y;0.83;0.74;Head;4;76;0-0;Jos√© S√°;Aaron Wan-Bissaka;Aaron Wan-Bissaka;Pass (Live);Bruno Fernandes;Pass (Live);
-18;2023/08/26;Matchweek 3;Home;Bruno Fernandes;Nott'ham Forest;Y*;0.79;0.98;Right Foot;13;76;02-Feb;Matt Turner;;Marcus Rashford;Fouled;Jadon Sancho;Pass (Dead);
-19;2024/02/01;Matchweek 22;Away;Scott McTominay;Wolves;N;0.16;0.33;Head;10;75;01-Feb;Jos√© S√°;Bruno Fernandes;Bruno Fernandes;Pass (Dead);Kobbie Mainoo;Shot;
-20;2023/11/26;Matchweek 13;Away;Anthony Martial;Everton;Y;0.79;0.96;Right Foot;11;75;2-0;Jordan Pickford;Bruno Fernandes;Bruno Fernandes;Pass (Live);Facundo Pellistri;Pass (Live);
-21;2023/09/16;Matchweek 5;Home;Hannibal Mejbri;Brighton;N;0.03;0.19;Right Foot;29;73;0-3;Jason Steele;Lisandro Mart√≠nez;Lisandro Mart√≠nez;Pass (Live);Bruno Fernandes;Pass (Live);
-22;2024/05/19;Matchweek 38;Away;Diogo Dalot;Brighton;Y;0.53;0.64;Right Foot;15;73;0-0;Jason Steele;;Jonny Evans;Pass (Live);Rapha√´l Varane;Pass (Live);
-23;2023/12/26;Matchweek 19;Home;Alejandro Garnacho;Aston Villa;Y;0.15;0.03;Left Foot;17;71;02-Jan;Emiliano Mart√≠nez;;Alejandro Garnacho;Pass (Live);Kobbie Mainoo;Pass (Live);Deflected
-24;2023/12/06;Matchweek 15;Home;Scott McTominay;Chelsea;Y;0.41;0.48;Head;4;69;01-Jan;Robert S√°nchez;Alejandro Garnacho;Alejandro Garnacho;Pass (Live);Sergio Reguil√≥n;Pass (Live);
-25;2024/04/04;Matchweek 31;Away;Alejandro Garnacho;Chelsea;Y;0.26;0.34;Head;11;67;02-Feb;ƒêorƒëe Petroviƒá;Antony;Antony;Pass (Live);Marcus Rashford;Pass (Live);
-26;2024/04/07;Matchweek 32;Home;Kobbie Mainoo;Liverpool;Y;0.05;0.47;Right Foot;17;67;01-Jan;Caoimh√≠n Kelleher;Aaron Wan-Bissaka;Aaron Wan-Bissaka;Pass (Live);Alejandro Garnacho;Pass (Live);
-27;2024/04/13;Matchweek 33;Away;Bruno Fernandes;Bournemouth;Y*;0.79;0.99;Right Foot;13;65;02-Jan;Neto;;;Fouled;Kobbie Mainoo;Shot;
-28;2024/04/24;Matchweek 29;Home;Bruno Fernandes;Sheffield Utd;Y*;0.79;0.95;Right Foot;13;61;02-Jan;Wes Foderingham;;Harry Maguire;Fouled;Bruno Fernandes;Shot;
-29;2023/12/26;Matchweek 19;Home;Alejandro Garnacho;Aston Villa;Y;0.33;0.87;Right Foot;8;59;0-2;Emiliano Mart√≠nez;Marcus Rashford;Marcus Rashford;Pass (Live);Bruno Fernandes;Pass (Live);
-30;2023/11/11;Matchweek 12;Home;Victor Lindel√∂f;Luton Town;Y;0.07;0.07;Right Foot;11;59;0-0;Thomas Kaminski;;;;;;
-31;2024/05/15;Matchweek 34;Home;Amad Diallo;Newcastle Utd;Y;0.07;0.04;Left Foot;15;57;01-Jan;Martin D√∫bravka;;Alejandro Garnacho;Pass (Live);Kobbie Mainoo;Pass (Live);
-32;2023/11/26;Matchweek 13;Away;Marcus Rashford;Everton;Y;0.79;0.99;Right Foot;13;56;1-0;Jordan Pickford;;Anthony Martial;Fouled;Bruno Fernandes;Pass (Live);
-33;2023/08/26;Matchweek 3;Home;Casemiro;Nott'ham Forest;Y;0.30;0.93;Right Foot;5;52;02-Jan;Matt Turner;Bruno Fernandes;Bruno Fernandes;Pass (Live);Marcus Rashford;Pass (Live);Volley
-34;2024/04/07;Matchweek 32;Home;Bruno Fernandes;Liverpool;Y*;0.04;0.26;Right Foot;48;50;0-1;Caoimh√≠n Kelleher;;;;;;
-35;2024/02/04;Matchweek 23;Home;Alejandro Garnacho;West Ham;Y;0.05;0.07;Left Foot;16;49;1-0;≈Åukasz Fabia≈Ñski;Bruno Fernandes;Bruno Fernandes;Pass (Live);Diogo Dalot;Pass (Live);Deflected
-36;2023/09/23;Matchweek 6;Away;Bruno Fernandes;Burnley;Y*;0.11;0.13;Right Foot;11;45;0-0;James Trafford;Jonny Evans;Jonny Evans;Pass (Live);Victor Lindel√∂f;Pass (Live);Volley
-37;2024/04/24;Matchweek 29;Home;Harry Maguire;Sheffield Utd;Y;0.09;0.55;Head;6;42;0-1;Wes Foderingham;Alejandro Garnacho;Alejandro Garnacho;Pass (Live);Kobbie Mainoo;Fouled;
-38;2024/01/14;Matchweek 21;Home;Marcus Rashford;Tottenham;Y;0.06;0.54;Right Foot;14;40;01-Jan;Guglielmo Vicario;Rasmus H√∏jlund;Marcus Rashford;Pass (Live);Rasmus H√∏jlund;Pass (Live);
-39;2024/04/04;Matchweek 31;Away;Bruno Fernandes;Chelsea;Y*;0.24;0.77;Head;6;39;02-Jan;ƒêorƒëe Petroviƒá;Diogo Dalot;Diogo Dalot;Pass (Live);Alejandro Garnacho;Pass (Live);
-40;2024/03/09;Matchweek 28;Home;Marcus Rashford;Everton;Y;0.79;0.98;Right Foot;13;36;1-0;Jordan Pickford;;Alejandro Garnacho;Fouled;Alejandro Garnacho;Take-On;
-41;2024/04/04;Matchweek 31;Away;Alejandro Garnacho;Chelsea;Y;0.26;0.41;Left Foot;15;34;0-2;ƒêorƒëe Petroviƒá;;;;;;
-42;2024/05/15;Matchweek 34;Home;Kobbie Mainoo;Newcastle Utd;Y;0.47;0.57;Right Foot;15;31;0-0;Martin D√∫bravka;Amad Diallo;Sofyan Amrabat;Pass (Live);Casemiro;Pass (Live);
-43;2024/04/13;Matchweek 33;Away;Bruno Fernandes;Bournemouth;Y*;0.15;0.73;Left Foot;7;31;0-1;Neto;;Marcus Rashford;Pass (Live);;;Volley
-44;2023/10/21;Matchweek 9;Away;Scott McTominay;Sheffield Utd;Y;0.05;0.37;Right Foot;15;28;0-0;Wes Foderingham;Bruno Fernandes;Bruno Fernandes;Pass (Live);Victor Lindel√∂f;Pass (Live);Deflected, Volley
-45;2023/09/03;Matchweek 4;Away;Marcus Rashford;Arsenal;Y;0.20;0.53;Right Foot;16;27;0-0;Aaron Ramsdale;Christian Eriksen;Christian Eriksen;Pass (Live);Christian Eriksen;Interception;
-46;2024/02/04;Matchweek 23;Home;Rasmus H√∏jlund;West Ham;Y;0.11;0.23;Right Foot;18;23;0-0;Alphonse Areola;Casemiro;Rasmus H√∏jlund;Take-On;Casemiro;Pass (Live);
-47;2024/02/01;Matchweek 22;Away;Rasmus H√∏jlund;Wolves;Y;0.79;0.99;Right Foot;2;22;1-0;Jos√© S√°;;Marcus Rashford;Pass (Live);Alejandro Garnacho;Pass (Live);
-48;2023/12/06;Matchweek 15;Home;Scott McTominay;Chelsea;Y;0.10;0.20;Left Foot;12;19;0-0;Robert S√°nchez;;Harry Maguire;Shot;;;
-49;2024/02/11;Matchweek 24;Away;Rasmus H√∏jlund;Aston Villa;Y;0.74;0.58;Left Foot;4;17;0-0;Emiliano Mart√≠nez;Harry Maguire;Harry Maguire;Pass (Live);Bruno Fernandes;Pass (Dead);
-50;2023/08/26;Matchweek 3;Home;Christian Eriksen;Nott'ham Forest;Y;0.28;0.95;Right Foot;3;17;0-2;Matt Turner;Marcus Rashford;Marcus Rashford;Pass (Live);Marcus Rashford;Take-On;
-51;2024/03/09;Matchweek 28;Home;Bruno Fernandes;Everton;Y*;0.79;0.99;Right Foot;13;12;0-0;Jordan Pickford;;Alejandro Garnacho;Fouled;Marcus Rashford;Pass (Live);
-52;2024/03/03;Matchweek 27;Away;Marcus Rashford;Manchester City;Y;0.02;0.27;Right Foot;30;8;0-0;Ederson;Bruno Fernandes;Bruno Fernandes;Pass (Live);Andr√© Onana;Pass (Live);
-53;2024/02/18;Matchweek 25;Away;Rasmus H√∏jlund;Luton Town;Y;0.27;0.59;Other;4;7;1-0;Thomas Kaminski;Alejandro Garnacho;Alejandro Garnacho;Shot;;;
-54;2024/02/01;Matchweek 22;Away;Marcus Rashford;Wolves;Y;0.10;0.44;Right Foot;21;5;0-0;Jos√© S√°;Rasmus H√∏jlund;Rasmus H√∏jlund;Pass (Live);Diogo Dalot;Pass (Live);
-55;2023/11/26;Matchweek 13;Away;Alejandro Garnacho;Everton;Y;0.08;0.44;Right Foot;15;3;0-0;Jordan Pickford;Diogo Dalot;Diogo Dalot;Pass (Live);Marcus Rashford;Pass (Live);Volley
-56;2024/01/14;Matchweek 21;Home;Rasmus H√∏jlund;Tottenham;Y;0.06;0.33;Left Foot;12;3;0-0;Guglielmo Vicario;;Bruno Fernandes;Pass (Live);Alejandro Garnacho;Pass (Live);
-57;2024/02/18;Matchweek 25;Away;Rasmus H√∏jlund;Luton Town;Y;0.36;0.42;Left Foot;14;1;0-0;Thomas Kaminski;;;;;;
+Rk,Date,Round,Venue,Player,Opponent,Start,Body Part,Distance,Minute,Goalkeeper,Assist,GCA1,GCA2
+1,2024/02/01,Matchweek 22,Away,Kobbie Mainoo,Wolves,Y,Right Foot,18,97,JosÈ S·,Omari Forson,Kobbie Mainoo,Kobbie Mainoo
+2,2023/10/07,Matchweek 8,Home,Scott McTominay,Brentford,N,Head,7,97,Thomas Strakosha,Harry Maguire,Harry Maguire,Bruno Fernandes
+3,2024/03/30,Matchweek 30,Away,Mason Mount,Brentford,N,Left Foot,11,96,Mark Flekken,Casemiro,Casemiro,Casemiro
+4,2023/10/07,Matchweek 8,Home,Scott McTominay,Brentford,N,Right Foot,12,93,Thomas Strakosha,,Diogo Dalot,
+5,2023/11/04,Matchweek 11,Away,Bruno Fernandes,Fulham,Y,Right Foot,18,91,Bernd Leno,Facundo Pellistri,Bruno Fernandes,Bruno Fernandes
+6,2024/02/24,Matchweek 26,Home,Harry Maguire,Fulham,Y,Left Foot,4,89,Bernd Leno,,Bruno Fernandes,
+7,2024/05/19,Matchweek 38,Away,Rasmus H¯jlund,Brighton,N,Right Foot,12,88,Jason Steele,Christian Eriksen,Rasmus H¯jlund,Christian Eriksen
+8,2024/02/11,Matchweek 24,Away,Scott McTominay,Aston Villa,N,Head,9,86,Emiliano MartÌnez,Diogo Dalot,Diogo Dalot,RaphaÎl Varane
+9,2024/04/24,Matchweek 29,Home,Rasmus H¯jlund,Sheffield Utd,Y,Left Foot,6,85,Wes Foderingham,Bruno Fernandes,Bruno Fernandes,Diogo Dalot
+10,2024/05/15,Matchweek 34,Home,Rasmus H¯jlund,Newcastle Utd,N,Right Foot,15,84,Martin D˙bravka,Bruno Fernandes,Bruno Fernandes,Marcus Rashford
+11,2024/02/04,Matchweek 23,Home,Alejandro Garnacho,West Ham,Y,Right Foot,13,84,?ukasz Fabia?ski,Scott McTominay,Scott McTominay,Scott McTominay
+12,2023/12/26,Matchweek 19,Home,Rasmus H¯jlund,Aston Villa,Y,Left Foot,11,82,Emiliano MartÌnez,,Antony,
+13,2024/04/24,Matchweek 29,Home,Bruno Fernandes,Sheffield Utd,Y,Left Foot,30,81,Wes Foderingham,Kobbie Mainoo,Kobbie Mainoo,Aaron Wan-Bissaka
+14,2024/04/27,Matchweek 35,Home,Antony,Burnley,Y,Left Foot,16,79,Arijanet Muric,,Antony,
+15,2023/12/30,Matchweek 20,Away,Marcus Rashford,Nott'ham Forest,Y,Right Foot,16,78,Matt Turner,Alejandro Garnacho,Alejandro Garnacho,Alejandro Garnacho
+16,2023/10/21,Matchweek 9,Away,Diogo Dalot,Sheffield Utd,Y,Right Foot,29,77,Wes Foderingham,Victor Lindelˆf,Victor Lindelˆf,Alejandro Garnacho
+17,2023/08/14,Matchweek 1,Home,RaphaÎl Varane,Wolves,Y,Head,4,76,JosÈ S·,Aaron Wan-Bissaka,Aaron Wan-Bissaka,Bruno Fernandes
+18,2023/08/26,Matchweek 3,Home,Bruno Fernandes,Nott'ham Forest,Y,Right Foot,13,76,Matt Turner,,Marcus Rashford,Jadon Sancho
+19,2024/02/01,Matchweek 22,Away,Scott McTominay,Wolves,N,Head,10,75,JosÈ S·,Bruno Fernandes,Bruno Fernandes,Kobbie Mainoo
+20,2023/11/26,Matchweek 13,Away,Anthony Martial,Everton,Y,Right Foot,11,75,Jordan Pickford,Bruno Fernandes,Bruno Fernandes,Facundo Pellistri
+21,2023/09/16,Matchweek 5,Home,Hannibal Mejbri,Brighton,N,Right Foot,29,73,Jason Steele,Lisandro MartÌnez,Lisandro MartÌnez,Bruno Fernandes
+22,2024/05/19,Matchweek 38,Away,Diogo Dalot,Brighton,Y,Right Foot,15,73,Jason Steele,,Jonny Evans,RaphaÎl Varane
+23,2023/12/26,Matchweek 19,Home,Alejandro Garnacho,Aston Villa,Y,Left Foot,17,71,Emiliano MartÌnez,,Alejandro Garnacho,Kobbie Mainoo
+24,2023/12/06,Matchweek 15,Home,Scott McTominay,Chelsea,Y,Head,4,69,Robert S·nchez,Alejandro Garnacho,Alejandro Garnacho,Sergio ReguilÛn
+25,2024/04/04,Matchweek 31,Away,Alejandro Garnacho,Chelsea,Y,Head,11,67,?or?e Petrovi?,Antony,Antony,Marcus Rashford
+26,2024/04/07,Matchweek 32,Home,Kobbie Mainoo,Liverpool,Y,Right Foot,17,67,CaoimhÌn Kelleher,Aaron Wan-Bissaka,Aaron Wan-Bissaka,Alejandro Garnacho
+27,2024/04/13,Matchweek 33,Away,Bruno Fernandes,Bournemouth,Y,Right Foot,13,65,Neto,,,Kobbie Mainoo
+28,2024/04/24,Matchweek 29,Home,Bruno Fernandes,Sheffield Utd,Y,Right Foot,13,61,Wes Foderingham,,Harry Maguire,Bruno Fernandes
+29,2023/12/26,Matchweek 19,Home,Alejandro Garnacho,Aston Villa,Y,Right Foot,8,59,Emiliano MartÌnez,Marcus Rashford,Marcus Rashford,Bruno Fernandes
+30,2023/11/11,Matchweek 12,Home,Victor Lindelˆf,Luton Town,Y,Right Foot,11,59,Thomas Kaminski,,,
+31,2024/05/15,Matchweek 34,Home,Amad Diallo,Newcastle Utd,Y,Left Foot,15,57,Martin D˙bravka,,Alejandro Garnacho,Kobbie Mainoo
+32,2023/11/26,Matchweek 13,Away,Marcus Rashford,Everton,Y,Right Foot,13,56,Jordan Pickford,,Anthony Martial,Bruno Fernandes
+33,2023/08/26,Matchweek 3,Home,Casemiro,Nott'ham Forest,Y,Right Foot,5,52,Matt Turner,Bruno Fernandes,Bruno Fernandes,Marcus Rashford
+34,2024/04/07,Matchweek 32,Home,Bruno Fernandes,Liverpool,Y,Right Foot,48,50,CaoimhÌn Kelleher,,,
+35,2024/02/04,Matchweek 23,Home,Alejandro Garnacho,West Ham,Y,Left Foot,16,49,?ukasz Fabia?ski,Bruno Fernandes,Bruno Fernandes,Diogo Dalot
+36,2023/09/23,Matchweek 6,Away,Bruno Fernandes,Burnley,Y,Right Foot,11,45,James Trafford,Jonny Evans,Jonny Evans,Victor Lindelˆf
+37,2024/04/24,Matchweek 29,Home,Harry Maguire,Sheffield Utd,Y,Head,6,42,Wes Foderingham,Alejandro Garnacho,Alejandro Garnacho,Kobbie Mainoo
+38,2024/01/14,Matchweek 21,Home,Marcus Rashford,Tottenham,Y,Right Foot,14,40,Guglielmo Vicario,Rasmus H¯jlund,Marcus Rashford,Rasmus H¯jlund
+39,2024/04/04,Matchweek 31,Away,Bruno Fernandes,Chelsea,Y,Head,6,39,?or?e Petrovi?,Diogo Dalot,Diogo Dalot,Alejandro Garnacho
+40,2024/03/09,Matchweek 28,Home,Marcus Rashford,Everton,Y,Right Foot,13,36,Jordan Pickford,,Alejandro Garnacho,Alejandro Garnacho
+41,2024/04/04,Matchweek 31,Away,Alejandro Garnacho,Chelsea,Y,Left Foot,15,34,?or?e Petrovi?,,,
+42,2024/05/15,Matchweek 34,Home,Kobbie Mainoo,Newcastle Utd,Y,Right Foot,15,31,Martin D˙bravka,Amad Diallo,Sofyan Amrabat,Casemiro
+43,2024/04/13,Matchweek 33,Away,Bruno Fernandes,Bournemouth,Y,Left Foot,7,31,Neto,,Marcus Rashford,
+44,2023/10/21,Matchweek 9,Away,Scott McTominay,Sheffield Utd,Y,Right Foot,15,28,Wes Foderingham,Bruno Fernandes,Bruno Fernandes,Victor Lindelˆf
+45,2023/09/03,Matchweek 4,Away,Marcus Rashford,Arsenal,Y,Right Foot,16,27,Aaron Ramsdale,Christian Eriksen,Christian Eriksen,Christian Eriksen
+46,2024/02/04,Matchweek 23,Home,Rasmus H¯jlund,West Ham,Y,Right Foot,18,23,Alphonse Areola,Casemiro,Rasmus H¯jlund,Casemiro
+47,2024/02/01,Matchweek 22,Away,Rasmus H¯jlund,Wolves,Y,Right Foot,2,22,JosÈ S·,,Marcus Rashford,Alejandro Garnacho
+48,2023/12/06,Matchweek 15,Home,Scott McTominay,Chelsea,Y,Left Foot,12,19,Robert S·nchez,,Harry Maguire,
+49,2024/02/11,Matchweek 24,Away,Rasmus H¯jlund,Aston Villa,Y,Left Foot,4,17,Emiliano MartÌnez,Harry Maguire,Harry Maguire,Bruno Fernandes
+50,2023/08/26,Matchweek 3,Home,Christian Eriksen,Nott'ham Forest,Y,Right Foot,3,17,Matt Turner,Marcus Rashford,Marcus Rashford,Marcus Rashford
+51,2024/03/09,Matchweek 28,Home,Bruno Fernandes,Everton,Y,Right Foot,13,12,Jordan Pickford,,Alejandro Garnacho,Marcus Rashford
+52,2024/03/03,Matchweek 27,Away,Marcus Rashford,Manchester City,Y,Right Foot,30,8,Ederson,Bruno Fernandes,Bruno Fernandes,AndrÈ Onana
+53,2024/02/18,Matchweek 25,Away,Rasmus H¯jlund,Luton Town,Y,Other,4,7,Thomas Kaminski,Alejandro Garnacho,Alejandro Garnacho,
+54,2024/02/01,Matchweek 22,Away,Marcus Rashford,Wolves,Y,Right Foot,21,5,JosÈ S·,Rasmus H¯jlund,Rasmus H¯jlund,Diogo Dalot
+55,2023/11/26,Matchweek 13,Away,Alejandro Garnacho,Everton,Y,Right Foot,15,3,Jordan Pickford,Diogo Dalot,Diogo Dalot,Marcus Rashford
+56,2024/01/14,Matchweek 21,Home,Rasmus H¯jlund,Tottenham,Y,Left Foot,12,3,Guglielmo Vicario,,Bruno Fernandes,Alejandro Garnacho
+57,2024/02/18,Matchweek 25,Away,Rasmus H¯jlund,Luton Town,Y,Left Foot,14,1,Thomas Kaminski,,,
