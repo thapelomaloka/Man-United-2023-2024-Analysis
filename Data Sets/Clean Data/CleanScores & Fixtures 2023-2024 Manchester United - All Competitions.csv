@@ -1,0 +1,53 @@
+,DATE,COMPETITION,Round,Day,Venue,Result,GOALS SCORED,GOALS CONCEDED,Opponent,POSESSTION,Attendance,Captain,REFEREE
+0,2023/08/14,Premier League,Matchweek 1,Mon,Home,W,1,0,Wolves,51,"73,358",Bruno Fernandes,Simon Hooper
+1,2023/08/19,Premier League,Matchweek 2,Sat,Away,L,0,2,Tottenham,45,"61,910",Bruno Fernandes,Michael Oliver
+2,2023/08/26,Premier League,Matchweek 3,Sat,Home,W,3,2,Nott'ham Forest,66,"73,595",Bruno Fernandes,Stuart Attwell
+3,2023/09/03,Premier League,Matchweek 4,Sun,Away,L,1,3,Arsenal,45,"60,192",Bruno Fernandes,Anthony Taylor
+4,2023/09/16,Premier League,Matchweek 5,Sat,Home,L,1,3,Brighton,44,"73,592",Bruno Fernandes,Jarred Gillett
+5,2023/09/20,Champions Lg,Group stage,Wed,Away,L,3,4,de Bayern Munich,41,"75,000",Bruno Fernandes,Glenn Nyberg
+6,2023/09/23,Premier League,Matchweek 6,Sat,Away,W,1,0,Burnley,39,"21,593",Bruno Fernandes,Tony Harrington
+7,2023/09/26,EFL Cup,Third round,Tue,Home,W,3,0,Crystal Palace,69,"72,842",Raphaël Varane,Michael Salisbury
+8,2023/09/30,Premier League,Matchweek 7,Sat,Home,L,0,1,Crystal Palace,77,"73,428",Bruno Fernandes,Chris Kavanagh
+9,2023/10/03,Champions Lg,Group stage,Tue,Home,L,2,3,tr Galatasaray,55,"73,204",Bruno Fernandes,Ivan Kružliak
+10,2023/10/07,Premier League,Matchweek 8,Sat,Home,W,2,1,Brentford,64,"73,453",Bruno Fernandes,Andy Madley
+11,2023/10/21,Premier League,Matchweek 9,Sat,Away,W,2,1,Sheffield Utd,62,"31,543",Bruno Fernandes,Michael Oliver
+12,2023/10/24,Champions Lg,Group stage,Tue,Home,W,1,0,dk FC Copenhagen,50,"73,249",Bruno Fernandes,Marco Guida
+13,2023/10/29,Premier League,Matchweek 10,Sun,Home,L,0,3,Manchester City,40,"73,502",Bruno Fernandes,Paul Tierney
+14,2023/11/01,EFL Cup,Fourth round,Wed,Home,L,0,3,Newcastle Utd,62,"72,484",Casemiro,Robert Jones
+15,2023/11/04,Premier League,Matchweek 11,Sat,Away,W,1,0,Fulham,55,"24,415",Bruno Fernandes,John Brooks
+16,2023/11/08,Champions Lg,Group stage,Wed,Away,L,3,4,dk FC Copenhagen,48,"36,099",Bruno Fernandes,Donatas Rumšas
+17,2023/11/11,Premier League,Matchweek 12,Sat,Home,W,1,0,Luton Town,64,"73,599",Bruno Fernandes,Graham Scott
+18,2023/11/26,Premier League,Matchweek 13,Sun,Away,W,3,0,Everton,49,"39,257",Bruno Fernandes,John Brooks
+19,2023/11/29,Champions Lg,Group stage,Wed,Away,D,3,3,tr Galatasaray,43,"51,733",Bruno Fernandes,José Sánchez
+20,2023/12/02,Premier League,Matchweek 14,Sat,Away,L,0,1,Newcastle Utd,42,"52,214",Bruno Fernandes,Robert Jones
+21,2023/12/06,Premier League,Matchweek 15,Wed,Home,W,2,1,Chelsea,45,"73,607",Bruno Fernandes,Chris Kavanagh
+22,2023/12/09,Premier League,Matchweek 16,Sat,Home,L,0,3,Bournemouth,68,"73,427",Bruno Fernandes,Peter Bankes
+23,2023/12/12,Champions Lg,Group stage,Tue,Home,L,0,1,de Bayern Munich,41,"73,073",Bruno Fernandes,Espen Eskås
+24,2023/12/17,Premier League,Matchweek 17,Sun,Away,D,0,0,Liverpool,32,"57,158",Scott McTominay,Michael Oliver
+25,2023/12/23,Premier League,Matchweek 18,Sat,Away,L,0,2,West Ham,65,"64,472",Bruno Fernandes,Simon Hooper
+26,2023/12/26,Premier League,Matchweek 19,Tue,Home,W,3,2,Aston Villa,46,"73,574",Bruno Fernandes,Craig Pawson
+27,2023/12/30,Premier League,Matchweek 20,Sat,Away,L,1,2,Nott'ham Forest,56,"29,529",Bruno Fernandes,Tim Robinson
+28,2024/01/08,FA Cup,Third round proper,Mon,Away,W,2,0,Wigan Athletic,67,"22,870",Bruno Fernandes,Anthony Taylor
+29,2024/01/14,Premier League,Matchweek 21,Sun,Home,D,2,2,Tottenham,37,"73,489",Bruno Fernandes,John Brooks
+30,2024/01/28,FA Cup,Fourth round proper,Sun,Away,W,4,2,Newport County,71,"9,086",Bruno Fernandes,David Coote
+31,2024/02/01,Premier League,Matchweek 22,Thu,Away,W,4,3,Wolves,47,"31,641",Bruno Fernandes,Jarred Gillett
+32,2024/02/04,Premier League,Matchweek 23,Sun,Home,W,3,0,West Ham,51,"73,612",Bruno Fernandes,Andy Madley
+33,2024/02/11,Premier League,Matchweek 24,Sun,Away,W,2,1,Aston Villa,44,"42,185",Bruno Fernandes,Robert Jones
+34,2024/02/18,Premier League,Matchweek 25,Sun,Away,W,2,1,Luton Town,42,"11,483",Bruno Fernandes,David Coote
+35,2024/02/24,Premier League,Matchweek 26,Sat,Home,L,1,2,Fulham,57,"73,487",Bruno Fernandes,Michael Oliver
+36,2024/02/28,FA Cup,Fifth round proper,Wed,Away,W,1,0,Nott'ham Forest,61,"28,665",Bruno Fernandes,Chris Kavanagh
+37,2024/03/03,Premier League,Matchweek 27,Sun,Away,L,1,3,Manchester City,27,"53,514",Bruno Fernandes,Andy Madley
+38,2024/03/09,Premier League,Matchweek 28,Sat,Home,W,2,0,Everton,51,"73,601",Bruno Fernandes,Simon Hooper
+39,2024/03/17,FA Cup,Quarter-finals,Sun,Home,W,4,3,Liverpool,42,"72,291",Bruno Fernandes,John Brooks
+40,2024/03/30,Premier League,Matchweek 30,Sat,Away,D,1,1,Brentford,53,"17,138",Bruno Fernandes,Simon Hooper
+41,2024/04/04,Premier League,Matchweek 31,Thu,Away,L,3,4,Chelsea,43,"39,694",Bruno Fernandes,Jarred Gillett
+42,2024/04/07,Premier League,Matchweek 32,Sun,Home,D,2,2,Liverpool,38,"73,501",Bruno Fernandes,Anthony Taylor
+43,2024/04/13,Premier League,Matchweek 33,Sat,Away,D,2,2,Bournemouth,57,"11,229",Bruno Fernandes,Tony Harrington
+44,2024/04/21,FA Cup,Semi-finals,Sun,Neutral,D,3 (4),3 (2),Coventry City,58,"83,672",Bruno Fernandes,Robert Jones
+45,2024/04/24,Premier League,Matchweek 29,Wed,Home,W,4,2,Sheffield Utd,71,"73,549",Bruno Fernandes,Michael Salisbury
+46,2024/04/27,Premier League,Matchweek 35,Sat,Home,D,1,1,Burnley,48,"73,571",Bruno Fernandes,John Brooks
+47,2024/05/06,Premier League,Matchweek 36,Mon,Away,L,0,4,Crystal Palace,57,"25,190",Casemiro,Jarred Gillett
+48,2024/05/12,Premier League,Matchweek 37,Sun,Home,L,0,1,Arsenal,54,"73,600",Scott McTominay,Paul Tierney
+49,2024/05/15,Premier League,Matchweek 34,Wed,Home,W,3,2,Newcastle Utd,45,"73,582",Bruno Fernandes,Robert Jones
+50,2024/05/19,Premier League,Matchweek 38,Sun,Away,W,2,0,Brighton,45,"31,662",Bruno Fernandes,Craig Pawson
+51,2024/05/25,FA Cup,Final,Sat,Neutral,W,2,1,Manchester City,27,"84,814",Bruno Fernandes,Andy Madley

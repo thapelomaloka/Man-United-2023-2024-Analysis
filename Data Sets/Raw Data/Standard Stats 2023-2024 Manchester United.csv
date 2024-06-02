@@ -1,0 +1,45 @@
+﻿PLAYER NAME,NATION,POSITION,AGE,MATCHES PLAYED,STARTS,MINUTES,90s,GOALS,ASISTS,GOALS & ASSISTS,NON-PENALTY GOALS,PENALTY KICK,PKatt,YELLOW CARDS,RED CARDS,xG,npxG,xAG,npxG+xAG
+André Onana,Cameroon,GK,27,51,51,4.65,51.7,0,0,0,0,0,0,6,0,0,0,0.1,0.1
+Diogo Dalot,Portugal,DF,24,50,48,4.364,48.5,3,5,8,3,0,0,7,1,1.8,1.8,3.1,4.9
+Bruno Fernandes,Portugal,MF,28,48,47,4.284,47.6,15,13,28,9,6,7,12,0,11.6,6.9,14,20.9
+Alejandro Garnacho,Argentina,FW,19,50,41,3.56,39.6,10,5,15,10,0,0,4,0,9.7,9.6,5.3,14.9
+Rasmus Højlund,Denmark,FW,20,43,35,3.072,34.1,16,2,18,16,0,0,2,0,11.2,11.2,2.1,13.3
+Marcus Rashford,England,FW,25,43,35,3.046,33.8,8,5,13,6,2,2,2,1,7.4,5.8,3.5,9.3
+Scott McTominay,Scotland,MF,26,43,27,2.783,30.9,10,3,13,10,0,0,4,0,7.1,7.1,2.1,9.2
+Casemiro,Brazil,MF,31,32,31,2.573,28.6,5,3,8,5,0,0,11,1,4.5,4.5,1.1,5.6
+Aaron Wan-Bissaka,England,DF,25,30,26,2.407,26.7,0,3,3,0,0,0,5,0,0.1,0.1,2,2.1
+Kobbie Mainoo,England,MF,18,32,29,2.389,26.5,5,1,6,5,0,0,4,0,0.9,0.9,0.7,1.6
+Harry Maguire,England,DF,30,31,25,2.314,25.7,4,2,6,4,0,0,5,0,2.3,2.3,1.2,3.6
+Raphaël Varane,France,DF,30,32,25,2.212,24.6,1,0,1,1,0,0,2,0,1.3,1.3,0.1,1.3
+Victor Lindelöf,Sweden,DF,29,28,20,1.956,21.7,1,1,2,1,0,0,3,0,0.8,0.8,0.3,1.1
+Antony,Brazil,FW,23,38,21,1.91,21.2,3,2,5,3,0,0,6,0,3.4,3.4,2.8,6.2
+Jonny Evans,Northern Ireland,DF,35,30,17,1.598,17.8,0,1,1,0,0,0,2,0,0.1,0.1,1.2,1.2
+Sofyan Amrabat,MAR,MF,26,30,17,1.547,17.2,0,0,0,0,0,0,9,0,0.1,0.1,0.5,0.6
+Christian Eriksen,Denmark,MF,31,28,14,1.434,15.9,1,3,4,1,0,0,1,0,1.3,1.3,2.7,4.1
+Luke Shaw,England,DF,28,15,15,1.175,13.1,0,1,1,0,0,0,7,0,0.1,0.1,1,1.2
+Lisandro Martínez,Argentina,DF,25,14,11,896,10,0,1,1,0,0,0,4,0,0,0,0.1,0.1
+Mason Mount,England,MF,24,20,8,759,8.4,1,1,2,1,0,0,2,0,0.9,0.9,0.3,1.2
+Sergio Reguilón,Spain,DF,26,12,7,654,7.3,0,0,0,0,0,0,4,0,0.3,0.3,0.9,1.2
+Anthony Martial,France,FW,27,19,7,635,7.1,2,1,3,2,0,0,0,0,1.2,1.2,0.4,1.7
+Amad Diallo,Ivory Coast,FW,21,12,3,474,5.3,2,1,3,2,0,0,3,1,0.5,0.5,1,1.6
+Facundo Pellistri,Uruguay,FW,21,14,3,375,4.2,0,1,1,0,0,0,0,0,1.1,1.1,0.1,1.2
+Willy Kambwala,France,DF,18,10,3,347,3.9,0,0,0,0,0,0,1,0,0,0,0,0
+Hannibal Mejbri,Tunisia,MF,20,10,4,330,3.7,1,0,1,1,0,0,3,0,0,0,0.4,0.4
+Omari Forson,England,MF,19,7,1,92,1,0,1,1,0,0,0,0,0,0,0,0.2,0.2
+Altay Bay?nd?r,Turkey,GK,25,1,1,90,1,0,0,0,0,0,0,0,0,,,,
+Jadon Sancho,England,FW,23,3,0,79,0.9,0,0,0,0,0,0,0,0,0,0,0.1,0.1
+Daniel Gore,England,MF,18,2,0,31,0.3,0,0,0,0,0,0,0,0,0,0,0,0
+Donny van de Beek,Netherlands,DF,26,2,0,23,0.3,0,0,0,0,0,0,0,0,0,0,0.1,0.2
+Ethan Wheatley,England,FW,17,3,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0
+Shola Shoretire,England,MF,19,0,0,,,,,,,,,,,,,,
+Harry Amass,England,DF,16,0,0,,,,,,,,,,,,,,
+Habeeb Ogunneye,England,DF,18,0,0,,,,,,,,,,,,,,
+Louis Jackson,Scotland,DF,17,0,0,,,,,,,,,,,,,,
+Rhys Bennett,England,DF,19,0,0,,,,,,,,,,,,,,
+Toby Collyer,England,MF,19,0,0,,,,,,,,,,,,,,
+Álvaro Carreras,Spain,DF,20,0,0,,,,,,,,,,,,,,
+Tom Heaton,England,GK,37,0,0,,,,,,,,,,,,,,
+Dermot Mee,Northern Ireland,GK,20,0,0,,,,,,,,,,,,,,
+Dean Henderson,England,GK,26,0,0,,,,,,,,,,,,,,
+Joe Hugill,England,FW,19,0,0,,,,,,,,,,,,,,
+Radek Vítek, Czech Republic,GK,19,0,0,,,,,,,,,,,,,,
